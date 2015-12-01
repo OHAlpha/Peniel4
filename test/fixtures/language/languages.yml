@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  english_name: MyString
+  native_name: MyString
+  iso_639_1: MyString
+  iso_639_2: MyString
+  iso_639_3: MyString
+
+two:
+  english_name: MyString
+  native_name: MyString
+  iso_639_1: MyString
+  iso_639_2: MyString
+  iso_639_3: MyString
